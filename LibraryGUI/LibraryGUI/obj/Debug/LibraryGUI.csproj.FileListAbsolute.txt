@@ -1,0 +1,14 @@
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\bin\Debug\LibraryGUI.exe
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\bin\Debug\LibraryGUI.exe.config
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.csproj.AssemblyReference.cache
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.Form1.resources
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.Menuform.resources
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.Properties.Resources.resources
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.Search.resources
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.user.resources
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.csproj.GenerateResource.cache
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.exe
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\obj\Debug\LibraryGUI.pdb
+C:\Users\Shallom Nelson\source\repos\LibraryGUI\LibraryGUI\bin\Debug\LibraryGUI.pdb
